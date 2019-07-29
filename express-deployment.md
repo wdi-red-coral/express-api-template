@@ -83,7 +83,7 @@ Use heroku addons:docs mongolab to view documentation
 
 If you see this output, it worked, and you can resume the heroku deployment steps.
 
-**[return to Deploying Heroku](https://git.generalassemb.ly/ga-wdi-boston/express-api-deployment-guide#deploying-to-heroku)**
+**[return to Deploying Heroku](#deploying-to-heroku)**
 
 ## WARNING: Ephemeral Filesystem
 
