@@ -19,6 +19,9 @@ authentication and common middlewares.
 1.  Once everything is working, make an initial commit.
 1.  Follow the steps in [express-api-deployment-guide](https://git.generalassemb.ly/ga-wdi-boston/express-api-deployment-guide)
 
+## Deployment
+
+Follow instructions [here](express-deployment.md)
 ## Structure
 
 Dependencies are stored in [`package.json`](package.json).
