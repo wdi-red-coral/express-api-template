@@ -23,7 +23,7 @@ create a new (blank) app on Heroku.
 - [ ] commit to your local master branch
 - [ ] Push your latest code to Heroku (`git push heroku master`)
 - [ ] Add any addons
-  - [ ] If using MongoDB you'll need to follow the [mlab add on steps](https://git.generalassemb.ly/ga-wdi-boston/express-api-deployment-guide#creating-mlab-addon)
+  - [ ] If using MongoDB you'll need to follow the [mlab add on steps](#creating-mlab-addon)
 - [ ] in terminal, run: `git push heroku master`  (should build your site)
 - [ ] you need to set your CLIENT_ORIGIN so that your deployed API will ONLY
 accept requests from the correct domain. IF you're client is deployed on Github,
